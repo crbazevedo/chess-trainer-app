@@ -1,0 +1,6 @@
+name: chess_trainer
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
